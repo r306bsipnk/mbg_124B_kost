@@ -1,16 +1,8 @@
-# emakkost
+# Emak Kost
+Aplikasi mobile untuk pengelola kos mengelola kos-kosan. dapat untuk mempromosikan kosan kepada masyarakat melalui aplikasi ini. Aplikasi ini memudahkan pencari kos, lokasi, kesediaan kamar, fasilitas dan harga.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Kelompok:
+1. Nadiya /12220568
+2. Emil aprilia /12220656
+3. Andi Gunawan /12220686
+4. Fedrick Figo alvarez /12221028
