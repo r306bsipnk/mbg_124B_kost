@@ -1,4 +1,6 @@
-import 'package:emakkost/views/prifile_page.dart';
+import 'package:emakost/views/login_views.dart';
+// ignore: unused_import
+import 'package:emakkost/views/register.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -13,8 +15,13 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'Flutter Demo',
-      home: ProfilePage(),
+      title: 'Authentication',
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        useMaterial3: true,
+      ),
+      home: LoginViews(),
     );
   }
 }
