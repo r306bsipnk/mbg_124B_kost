@@ -1,4 +1,4 @@
-import 'package:emakkost/views/login_views.dart';
+import 'package:emakost/views/login_views.dart';
 // ignore: unused_import
 import 'package:emakkost/views/register.dart';
 import 'package:flutter/material.dart';
